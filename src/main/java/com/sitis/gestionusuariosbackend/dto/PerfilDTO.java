@@ -1,2 +1,4 @@
-package com.sitis.gestionusuariosbackend.dto;public class PerfilDTO {
+package com.sitis.gestionusuariosbackend.dto;
+
+public class PerfilDTO {
 }
